@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.projeto_final">
+    package="com.example.beacon">
    <application
-        android:label="projeto_final"
+        android:label="beacon"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

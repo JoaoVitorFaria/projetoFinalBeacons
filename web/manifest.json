@@ -1,11 +1,11 @@
 {
-    "name": "projeto_final",
-    "short_name": "projeto_final",
+    "name": "beacon",
+    "short_name": "beacon",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "projeto_final",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
